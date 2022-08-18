@@ -1,0 +1,16 @@
+.link-footer{
+    text-transform: uppercase;
+    font-size: 12px;
+    padding: 0.5rem 0.7rem;
+    line-height: 1.625rem;
+    color: white;
+    font-weight: 200;
+}
+
+.link-footer:hover{
+    color: #2ca8ff;
+}
+
+.fondo-celeste{
+    background: linear-gradient(to top , #2e2e2e, #2ca8ff);
+}
